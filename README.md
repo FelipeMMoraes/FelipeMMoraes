@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felipemmoraes&label=Profile%20views&color=0e75b6&style=flat" alt="felipemmoraes" /> </p>
 
-- 🌱 I’m currently learning **JavaScript,Node.JS, React**
+- 🌱 I’m currently learning **JavaScript, Node.JS, React**
 
 - 📫 How to reach me **felipe.moraes8@hotmail.com**
 
