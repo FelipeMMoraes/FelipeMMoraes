@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+
 <h1 align="center">Hi 👋, I'm Felipe Moraes</h1>
 <h3 align="center">A passionate frontend developer from Brasil</h3>
 
