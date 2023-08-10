@@ -19,5 +19,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=felipemmoraes&show_icons=true&locale=en" alt="felipemmoraes" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=felipemmoraes&" alt="felipemmoraes" /></p>
-
-![Snake animation](https://github.com/FelipeMMoraes/FelipeMMoraes/blob/output/github-contribution-grid-snake.svg)
